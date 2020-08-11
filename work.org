@@ -1,0 +1,8 @@
+* <2020-08-11 Tue>
+** Work on finding the values of the order parameters base d on Xi and Dimitri's advice and reply to their emails.
+*** change the number of steps that get saved in the biased trajectory and restart the MD so that we get a better graph of the distances.
+   :LOGBOOK:
+   CLOCK: [2020-08-11 Tue 11:31]--[2020-08-11 Tue 12:48] =>  1:17
+   :END:
+** Make a table of the binding energies of the 4f+ligand orbitals
+** Work on the calculation of free energies project
