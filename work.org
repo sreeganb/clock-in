@@ -13,3 +13,9 @@
     CLOCK: [2020-08-11 Tue 21:00]--[2020-08-11 Tue 22:58] =>  1:58
     :END:
 ** Work on the calculation of free energies project
+* <2020-08-12 Wed>
+** Work on the TPS simulations
+   :LOGBOOK:
+   CLOCK: [2020-08-12 Wed 23:20]--[2020-08-13 Thu 01:01] =>  1:41
+   CLOCK: [2020-08-12 Wed 10:39]--[2020-08-12 Wed 11:51] =>  1:12
+   :END:
