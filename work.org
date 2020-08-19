@@ -19,3 +19,44 @@
    CLOCK: [2020-08-12 Wed 23:20]--[2020-08-13 Thu 01:01] =>  1:41
    CLOCK: [2020-08-12 Wed 10:39]--[2020-08-12 Wed 11:51] =>  1:12
    :END:
+* <2020-08-13 Thu>
+** Work on the TPS simulations
+   :LOGBOOK:
+   CLOCK: [2020-08-13 Thu 19:42]--[2020-08-13 Thu 20:39] =>  0:57
+   :END:
+*** Check if the diphosphate and the inorganic phosphate are dissociating at a time later than at least the 130th step so that if a time slice 
+*** is chosen randomly for TPS, there is scope for going back to the reactant state. 
+   :LOGBOOK:
+   CLOCK: [2020-08-13 Thu 12:46]--[2020-08-13 Thu 12:56] =>  0:10
+   CLOCK: [2020-08-13 Thu 10:30]--[2020-08-13 Thu 12:25] =>  1:55
+   CLOCK: [2020-08-13 Thu 09:35]--[2020-08-13 Thu 10:09] =>  0:34
+   :END:
+*** NEWBIASED4.DCD from the 1st_reactive_traj/ folder seems to have a very good version of the reactive trajectory that could be used for the 
+*** further TPS simulations. Start from this, but first make a folder with the necessary files. 
+*** Force used is 35 a. u. to constraint the bond distances to obtain the reactive trajectory. 
+*** It also used the RESTR8.CRD as the starting structure to obtain the reactive trajectory. 
+*** Now we need to start with this. 
+** Work on the lanthanide XPS project
+*** Finish labeling the rest of the orbitals and share the document with Dan and others.
+    :LOGBOOK:
+    CLOCK: [2020-08-13 Thu 17:37]--[2020-08-13 Thu 18:22] =>  0:45
+    :END:
+* <2020-08-17 Mon>
+** Work on the TPS simulations
+   :LOGBOOK:
+   CLOCK: [2020-08-17 Mon 20:04]--[2020-08-18 Tue 00:59] =>  4:55
+   CLOCK: [2020-08-17 Mon 14:59]--[2020-08-17 Mon 15:53] =>  0:54
+   CLOCK: [2020-08-17 Mon 11:04]--[2020-08-17 Mon 12:54] =>  1:50
+   CLOCK: [2020-08-17 Mon 10:02]--[2020-08-17 Mon 10:21] =>  0:19
+   :END:
+** Work on the free energies project
+** Search for housing in Tucson
+* <2020-08-18 Tue>
+** TODO Work on the TPS simulations
+   :LOGBOOK:
+   CLOCK: [2020-08-18 Tue 09:14]--[2020-08-18 Tue 11:01] =>  1:47
+   :END:
+** TODO Work on the free energies calculations
+   :LOGBOOK:
+   CLOCK: [2020-08-18 Tue 12:12]--[2020-08-18 Tue 18:01] =>  2:00
+   :END:
