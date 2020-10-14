@@ -60,3 +60,8 @@
    :LOGBOOK:
    CLOCK: [2020-08-18 Tue 12:12]--[2020-08-18 Tue 18:01] =>  2:00
    :END:
+* <2020-10-14 Wed>
+** TODO Work on the commitor analysis
+** TODO Work on the free energy calculations
+** TODO Work on the acetic acid calculations and sampling
+** TODO Work on the RPA polarizabilities paper
