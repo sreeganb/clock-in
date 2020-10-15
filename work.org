@@ -65,3 +65,4 @@
 ** TODO Work on the free energy calculations
 ** TODO Work on the acetic acid calculations and sampling
 ** TODO Work on the RPA polarizabilities paper
+** TODO Work on learning about the software that will help build molecules into cavities of enzymes
