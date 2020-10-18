@@ -66,3 +66,12 @@
 ** TODO Work on the acetic acid calculations and sampling
 ** TODO Work on the RPA polarizabilities paper
 ** TODO Work on learning about the software that will help build molecules into cavities of enzymes
+* <2020-10-17 Sat>
+** DONE Work on replying to Filipp and others 
+** TODO Work on commitor analysis for the TPS simulations
+*** Started commitor analysis for the 50th TPS reactive trajectory and it is running now, hopefully this will finish soon enough and I can just look at the results and get the transition state. 
+** TODO Work on the polarizabilities paper
+** TODO Work on the molecule building software
+** TODO Work on the acetate calculations
+*** So far the uniform sampling for the acetate.6H2O system is submitted and is running. Need to check what happens to the resutls.
+*** For the 5H2O system the average shift was unchanged up to two decimal places. 
