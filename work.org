@@ -13,7 +13,7 @@
     CLOCK: [2020-08-11 Tue 21:00]--[2020-08-11 Tue 22:58] =>  1:58
     :END:
 ** Work on the calculation of free energies project
-* <2020-08-12 Wed>
+1;95;0c* <2020-08-12 Wed>
 ** Work on the TPS simulations
    :LOGBOOK:
    CLOCK: [2020-08-12 Wed 23:20]--[2020-08-13 Thu 01:01] =>  1:41
@@ -75,3 +75,34 @@
 ** TODO Work on the acetate calculations
 *** So far the uniform sampling for the acetate.6H2O system is submitted and is running. Need to check what happens to the resutls.
 *** For the 5H2O system the average shift was unchanged up to two decimal places. 
+* <2020-10-18 Sun>
+** TODO Work on the commitor analysis
+   :LOGBOOK:
+   CLOCK: [2020-10-18 Sun 19:56]--[2020-10-18 Sun 22:05] =>  2:09
+   :END:
+** DONE Send a reply to Ken Jordan with the data
+** TODO Work on the polarizabilities paper
+** TODO Work on the free energy calculations project
+* <2020-11-16 Mon>
+** TODO Work on the TPS simulations
+   :LOGBOOK:
+   CLOCK: [2020-11-16 Mon 12:41]--[2020-11-16 Mon 13:29] =>  0:48
+   :END:
+** TODO Work on the free energies calculations
+** TODO Work on the CHARMM-TURBOMOLE interface
+** TODO Work on the acetic acid project and send some results to the group
+** TODO Start correcting the polarizabilities paper and send an email to the group
+* <2020-11-23 Mon>
+** TODO Work on the MAT2A simulations
+** TODO Work on the free energy calculations
+** TODO Work on the CHARMM-TURBOMOLE project
+** TODO Start the RPASTAB project
+* <2020-11-30 Mon>
+** TODO Work on the TPS simulations of MAT2A protein
+   :LOGBOOK:
+   CLOCK: [2020-11-30 Mon 14:21]--[2020-11-30 Mon 22:23] =>  8:02
+   :END:
+** TODO Work on the free energy calculations 
+** TODO Work on the CHARMM-TURBOMOLE interface
+** TODO Work on the polarizabilities paper
+** TODO Work on the drug binding project
